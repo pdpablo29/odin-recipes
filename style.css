@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-size: 24px;
+    padding: 10px 0;
+    margin: 8px 0;
+
+}
+.chicken {
+    background-color: lightpink;
+    border: 2px solid salmon;
+    padding: 10px 0;
+}
+.stuffing {
+    background-color: beige;
+    border: 2px solid brown;
+    padding: 10px 0
+}
+.biscuits {
+    padding: 10px 0;
+    background-color: yellow;
+    border: 2px solid orange;
+}
